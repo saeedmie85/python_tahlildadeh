@@ -1,0 +1,249 @@
+1709820298661	geckodriver	INFO	Listening on 127.0.0.1:14967
+1709820301345	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "14968" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\C1-TEA~1\\AppData\\Local\\Temp\\rust_mozprofile4IypqD"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1709820303674	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1709820303817	Marionette	INFO	Listening on port 14983
+WebDriver BiDi listening on ws://127.0.0.1:14968
+Read port: 14983
+Read port: 14983
+1709820305683	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:14968/devtools/browser/e039e4ae-2714-4fae-b9f6-2f5ea0fe5b9a
+1709820333980	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1709820391646	Marionette	INFO	Stopped listening on port 14983
+Dynamically enable window occlusion 1
+1709821071251	geckodriver	INFO	Listening on 127.0.0.1:1660
+1709821074306	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "1661" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\C1-TEA~1\\AppData\\Local\\Temp\\rust_mozprofile2YTdK8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1709821075345	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1709821075476	Marionette	INFO	Listening on port 1686
+WebDriver BiDi listening on ws://127.0.0.1:1661
+Read port: 1686
+1709821075952	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:1661/devtools/browser/7ea4f4f3-3ef1-4069-8f1a-66dfe68acad3
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ix8E4/yk/l/en_US/VGxjaLeg-EZ.js?_nc_x=Ij3Wp8lg5Kz, line 90: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1709821106396	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1709821117729	Marionette	INFO	Stopped listening on port 1686
+Dynamically enable window occlusion 1
+1709821119663	geckodriver	INFO	Listening on 127.0.0.1:1893
+1709821122699	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "1894" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\C1-TEA~1\\AppData\\Local\\Temp\\rust_mozprofile59Nq70"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1709821123427	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1709821123595	Marionette	INFO	Listening on port 1907
+WebDriver BiDi listening on ws://127.0.0.1:1894
+Read port: 1907
+1709821124019	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:1894/devtools/browser/fafc16ee-4c7d-414b-9653-2ca21ab582bf
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ix8E4/yk/l/en_US/VGxjaLeg-EZ.js?_nc_x=Ij3Wp8lg5Kz, line 90: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1709821155898	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1709821243585	Marionette	INFO	Stopped listening on port 1907
+Dynamically enable window occlusion 1
+1709821474827	geckodriver	INFO	Listening on 127.0.0.1:9759
+1709821477856	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "9760" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\C1-TEA~1\\AppData\\Local\\Temp\\rust_mozprofileBaLoZs"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1709821478624	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1709821478803	Marionette	INFO	Listening on port 9767
+WebDriver BiDi listening on ws://127.0.0.1:9760
+Read port: 9767
+1709821479150	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:9760/devtools/browser/ba4e5ee2-1ad5-445c-b7e8-5ba7364cd5ed
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ix8E4/yk/l/en_US/VGxjaLeg-EZ.js?_nc_x=Ij3Wp8lg5Kz, line 90: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1709821508779	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6Uo4/yQ/l/en_US/sNa1o0KY6SP.js?_nc_x=Ij3Wp8lg5Kz, line 311: Script terminated by timeout at:
+i.canUseNavigatorBeacon@https://static.cdninstagram.com/rsrc.php/v3i6Uo4/yQ/l/en_US/sNa1o0KY6SP.js?_nc_x=Ij3Wp8lg5Kz:311:4276
+C@https://static.cdninstagram.com/rsrc.php/v3i6Uo4/yQ/l/en_US/sNa1o0KY6SP.js?_nc_x=Ij3Wp8lg5Kz:311:1606
+i._initialize/<@https://static.cdninstagram.com/rsrc.php/v3i6Uo4/yQ/l/en_US/sNa1o0KY6SP.js?_nc_x=Ij3Wp8lg5Kz:311:4912
+d@https://static.cdninstagram.com/rsrc.php/v3i6Uo4/yQ/l/en_US/sNa1o0KY6SP.js?_nc_x=Ij3Wp8lg5Kz:302:158
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 570: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 570: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1709821685324	Marionette	INFO	Stopped listening on port 9767
+Dynamically enable window occlusion 1
+1709821686908	geckodriver	INFO	Listening on 127.0.0.1:10195
+1709821690246	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "10196" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\C1-TEA~1\\AppData\\Local\\Temp\\rust_mozprofilep1KMUd"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1709821690924	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1709821691044	Marionette	INFO	Listening on port 10206
+WebDriver BiDi listening on ws://127.0.0.1:10196
+Read port: 10206
+1709821691395	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:10196/devtools/browser/f5e66ffe-0c32-4add-8abf-a40355931f7e
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ix8E4/yk/l/en_US/VGxjaLeg-EZ.js?_nc_x=Ij3Wp8lg5Kz, line 90: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1709821721543	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 570: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 570: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 105: Error: Connection closed, pending request to server0.conn0.windowGlobal6442450945/domnode256, type setNodeValue failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:299:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+showTextEditor/done/</<@resource://devtools/client/inspector/markup/views/text-editor.js:103:25
+do@resource://devtools/client/shared/undo.js:70:16
+endBatch@resource://devtools/client/shared/undo.js:81:11
+do@resource://devtools/client/shared/undo.js:93:10
+showTextEditor/done/<@resource://devtools/client/inspector/markup/views/text-editor.js:101:31
+
+1709822588178	Marionette	INFO	Stopped listening on port 10206
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+console.error: (new Error("Data is not ready.", "resource://gre/modules/JSONFile.sys.mjs", 178))
+lling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i67d4/yW/l/makehaste_jhash/QDBdntLNlXYwOLbE-5z-SvgpRZ2YJNYZfhV78t4uST3dVGxjaLeg-EZ.js?_nc_x=Ij3Wp8lg5Kz, line 327: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+1709822334345	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6Uo4/yg/l/makehaste_jhash/sNa1o0KY6SP.js?_nc_x=Ij3Wp8lg5Kz, line 311: Script terminated by timeout at:
+i.canUseNavigatorBeacon@https://static.cdninstagram.com/rsrc.php/v3i6Uo4/yg/l/makehaste_jhash/sNa1o0KY6SP.js?_nc_x=Ij3Wp8lg5Kz:311:4276
+C@https://static.cdninstagram.com/rsrc.php/v3i6Uo4/yg/l/makehaste_jhash/sNa1o0KY6SP.js?_nc_x=Ij3Wp8lg5Kz:311:1606
+i._initialize/<@https://static.cdninstagram.com/rsrc.php/v3i6Uo4/yg/l/makehaste_jhash/sNa1o0KY6SP.js?_nc_x=Ij3Wp8lg5Kz:311:4912
+d@https://static.cdninstagram.com/rsrc.php/v3i6Uo4/yg/l/makehaste_jhash/sNa1o0KY6SP.js?_nc_x=Ij3Wp8lg5Kz:302:158
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 570: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 570: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 570: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 570: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 105: Error: Connection closed, pending request to server0.conn0.windowGlobal6442450946/domnode103, type setNodeValue failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:299:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+showTextEditor/done/</<@resource://devtools/client/inspector/markup/views/text-editor.js:103:25
+do@resource://devtools/client/shared/undo.js:70:16
+endBatch@resource://devtools/client/shared/undo.js:81:11
+do@resource://devtools/client/shared/undo.js:93:10
+showTextEditor/done/<@resource://devtools/client/inspector/markup/views/text-editor.js:101:31
+
+1709822588986	Marionette	INFO	Stopped listening on port 10625
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+
+stop()@WebDriverBiDi.sys.mjs:228
+observe()@resource://gre/modules/AsyncShutdown.sys.mjs:570
+1709822590516	geckodriver	INFO	Listening on 127.0.0.1:11167
+1709822593774	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "11168" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\C1-TEA~1\\AppData\\Local\\Temp\\rust_mozprofileQA8N5E"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1709822594472	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1709822594607	Marionette	INFO	Listening on port 11178
+WebDriver BiDi listening on ws://127.0.0.1:11168
+Read port: 11178
+1709822598028	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:11168/devtools/browser/1d4fb9b0-c36c-446e-b51a-bfd6ac1202ee
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 786))
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ix8E4/yk/l/en_US/VGxjaLeg-EZ.js?_nc_x=Ij3Wp8lg5Kz, line 90: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i67d4/yW/l/makehaste_jhash/QDBdntLNlXYwOLbE-5z-SvgpRZ2YJNYZfhV78t4uST3dVGxjaLeg-EZ.js?_nc_x=Ij3Wp8lg5Kz, line 327: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+1709822624493	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i6Uo4/yg/l/makehaste_jhash/sNa1o0KY6SP.js?_nc_x=Ij3Wp8lg5Kz, line 311: Script terminated by timeout at:
+i.canUseNavigatorBeacon@https://static.cdninstagram.com/rsrc.php/v3i6Uo4/yg/l/makehaste_jhash/sNa1o0KY6SP.js?_nc_x=Ij3Wp8lg5Kz:311:4276
+C@https://static.cdninstagram.com/rsrc.php/v3i6Uo4/yg/l/makehaste_jhash/sNa1o0KY6SP.js?_nc_x=Ij3Wp8lg5Kz:311:1606
+i._initialize/<@https://static.cdninstagram.com/rsrc.php/v3i6Uo4/yg/l/makehaste_jhash/sNa1o0KY6SP.js?_nc_x=Ij3Wp8lg5Kz:311:4912
+d@https://static.cdninstagram.com/rsrc.php/v3i6Uo4/yg/l/makehaste_jhash/sNa1o0KY6SP.js?_nc_x=Ij3Wp8lg5Kz:302:158
+
+1709822646267	Marionette	INFO	Stopped listening on port 11178
+Dynamically enable window occlusion 1
+1709822664487	geckodriver	INFO	Listening on 127.0.0.1:11396
+1709822667549	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "11397" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\C1-TEA~1\\AppData\\Local\\Temp\\rust_mozprofileF9yMqO"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1709822668345	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1709822668477	Marionette	INFO	Listening on port 11412
+WebDriver BiDi listening on ws://127.0.0.1:11397
+Read port: 11412
+1709822669001	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:11397/devtools/browser/506af703-f39d-45b2-bea2-ed6e6fa5ee4c
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 786))
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ix8E4/yk/l/en_US/VGxjaLeg-EZ.js?_nc_x=Ij3Wp8lg5Kz, line 90: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1709822690765	Marionette	INFO	Stopped listening on port 11412
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1709822691127	WebDriver BiDi	ERROR	Failed to stop protocol: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.sys.mjs :: allowAllCerts.disable :: line 47"  data: no] Stack trace: allowAllCerts.disable()@cert.sys.mjs:47
+destroy()@Session.sys.mjs:239
+deleteSession()@WebDriverBiDi.sys.mjs:140
+stop()@WebDriverBiDi.sys.mjs:228
+observe()@resource://gre/modules/AsyncShutdown.sys.mjs:570
+1709822698850	geckodriver	INFO	Listening on 127.0.0.1:11518
+1709822702171	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "11519" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\C1-TEA~1\\AppData\\Local\\Temp\\rust_mozprofilebOMHTA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1709822702867	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1709822703015	Marionette	INFO	Listening on port 11532
+WebDriver BiDi listening on ws://127.0.0.1:11519
+Read port: 11532
+1709822703548	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:11519/devtools/browser/b6305485-ce6c-4cc0-92e3-f6bd0f1b068f
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ix8E4/yk/l/en_US/VGxjaLeg-EZ.js?_nc_x=Ij3Wp8lg5Kz, line 90: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i67d4/yW/l/makehaste_jhash/QDBdntLNlXYwOLbE-5z-SvgpRZ2YJNYZfhV78t4uST3dVGxjaLeg-EZ.js?_nc_x=Ij3Wp8lg5Kz, line 327: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+1709822733310	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1709822987447	geckodriver	INFO	Listening on 127.0.0.1:11836
+1709822990492	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "11837" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\C1-TEA~1\\AppData\\Local\\Temp\\rust_mozprofileFxqtt1"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1709822991166	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1709822991329	Marionette	INFO	Listening on port 11847
+WebDriver BiDi listening on ws://127.0.0.1:11837
+Read port: 11847
+1709822991724	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:11837/devtools/browser/5d1ce3d0-287f-4dc0-9da2-b89ccafddd57
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ix8E4/yk/l/en_US/VGxjaLeg-EZ.js?_nc_x=Ij3Wp8lg5Kz, line 90: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i67d4/yW/l/makehaste_jhash/QDBdntLNlXYwOLbE-5z-SvgpRZ2YJNYZfhV78t4uST3dVGxjaLeg-EZ.js?_nc_x=Ij3Wp8lg5Kz, line 327: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1709823021229	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iTNJ4/yJ/l/makehaste_jhash/QDBdntLNlXYwOLbE-5z-SvgpRZ2YJNYZfhV78t4uST3dVGxjaLeg-EZjQGEfBtfpVE.js?_nc_x=Ij3Wp8lg5Kz, line 327: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i3Wu4/yn/l/makehaste_jhash/VeEPdoqozF8PehAvfKQSmuZtFFTbIfOkiyMi9iSvoxvBVLeBAXmP9E5BYBHirbomYfuQoMBQJNmLOqOlqT0vr_XyH6X7_0-thwdRs3whZdJjPL-TePF-pp9z-oIIkSf1WKe_.js?_nc_x=Ij3Wp8lg5Kz, line 720: Script terminated by timeout at:
+f.useRef@https://static.cdninstagram.com/rsrc.php/v3i3Wu4/yn/l/makehaste_jhash/VeEPdoqozF8PehAvfKQSmuZtFFTbIfOkiyMi9iSvoxvBVLeBAXmP9E5BYBHirbomYfuQoMBQJNmLOqOlqT0vr_XyH6X7_0-thwdRs3whZdJjPL-TePF-pp9z-oIIkSf1WKe_.js?_nc_x=Ij3Wp8lg5Kz:720:9000
+g@https://static.cdninstagram.com/rsrc.php/v3i3Wu4/yn/l/makehaste_jhash/VeEPdoqozF8PehAvfKQSmuZtFFTbIfOkiyMi9iSvoxvBVLeBAXmP9E5BYBHirbomYfuQoMBQJNmLOqOlqT0vr_XyH6X7_0-thwdRs3whZdJjPL-TePF-pp9z-oIIkSf1WKe_.js?_nc_x=Ij3Wp8lg5Kz:1546:16299
+qb/i/<@https://static.cdninstagram.com/rsrc.php/v3i3Wu4/yn/l/makehaste_jhash/VeEPdoqozF8PehAvfKQSmuZtFFTbIfOkiyMi9iSvoxvBVLeBAXmP9E5BYBHirbomYfuQoMBQJNmLOqOlqT0vr_XyH6X7_0-thwdRs3whZdJjPL-TePF-pp9z-oIIkSf1WKe_.js?_nc_x=Ij3Wp8lg5Kz:1546:17197
+a@https://static.cdninstagram.com/rsrc.php/v3i3Wu4/yn/l/makehaste_jhash/VeEPdoqozF8PehAvfKQSmuZtFFTbIfOkiyMi9iSvoxvBVLeBAXmP9E5BYBHirbomYfuQoMBQJNmLOqOlqT0vr_XyH6X7_0-thwdRs3whZdJjPL-TePF-pp9z-oIIkSf1WKe_.js?_nc_x=Ij3Wp8lg5Kz:637:1335
+b@https://static.cdninstagram.com/rsrc.php/v3i3Wu4/yn/l/makehaste_jhash/VeEPdoqozF8PehAvfKQSmuZtFFTbIfOkiyMi9iSvoxvBVLeBAXmP9E5BYBHirbomYfuQoMBQJNmLOqOlqT0vr_XyH6X7_0-thwdRs3whZdJjPL-TePF-pp9z-oIIkSf1WKe_.js?_nc_x=Ij3Wp8lg5Kz:638:525
+a@https://static.cdninstagram.com/rsrc.php/v3i8R44/yi/l/makehaste_jhash/zSX2pzO1YI7n8ReVJO9Xfp2_Hv62YO9k8j0feuijG7puwcd8aQJsZs0WMKKsbhj3krZKghDr65C1GW6OzbrglLMFfVj73Xe3BBSFgDcroygsOWJBa0akce_Yzqkaf6dE6uJdS_t_2-kHUUyHTRaU7T9FbLeHdLT6peAoufFOAG_evgGumaSOECazsEKskG8PTXgHmhstujL3eOAVoo9qibZTmcvEb8UpgZraS39lZoDx4Tol4MqDR1PEBR_ornAeABKJ4zcxgw79xvBCigghaTvQim7xnZxoPF43aqOe9pTcFSfGkzs1FeY4eQs72Fg5ZK6blTgUg5.js?_nc_x=Ij3Wp8lg5Kz:434:729
+ff@https://static.cdninstagram.com/rsrc.php/v3i3Wu4/yn/l/makehaste_jhash/VeEPdoqozF8PehAvfKQSmuZtFFTbIfOkiyMi9iSvoxvBVLeBAXmP9E5BYBHirbomYfuQoMBQJNmLOqOlqT0vr_XyH6X7_0-thwdRs3whZdJjPL-TePF-pp9z-oIIkSf1WKe_.js?_nc_x=Ij3Wp8lg5Kz:888:43449
+Rg@https://static.cdninstagram.com/rsrc.php/v3i3Wu4/yn/l/makehaste_jhash/VeEPdoqozF8PehAvfKQSmuZtFFTbIfOkiyMi9iSvoxvBVLeBAXmP9E5BYBHirbomYfuQoMBQJNmLOqOlqT0vr_XyH6X7_0-thwdRs3whZdJjPL-TePF-pp9z-oIIkSf1WKe_.js?_nc_x=Ij3Wp8lg5Kz:888:67294
+Mk@https://static.cdninstagram.com/rsrc.php/v3i3Wu4/yn/l/makehaste_jhash/VeEPdoqozF8PehAvfKQSmuZtFFTbIfOkiyMi9iSvoxvBVLeBAXmP9E5BYBHirbomYfuQoMBQJNmLOqOlqT0vr_XyH6X7_0-thwdRs3whZdJjPL-TePF-pp9z-oIIkSf1WKe_.js?_nc_x=Ij3Wp8lg5Kz:888:127598
+wk@https://static.cdninstagram.com/rsrc.php/v3i3Wu4/yn/l/makehaste_jhash/VeEPdoqozF8PehAvfKQSmuZtFFTbIfOkiyMi9iSvoxvBVLeBAXmP9E5BYBHirbomYfuQoMBQJNmLOqOlqT0vr_XyH6X7_0-thwdRs3whZdJjPL-TePF-pp9z-oIIkSf1WKe_.js?_nc_x=Ij3Wp8lg5Kz:888:122352
+tk@https://static.cdninstagram.com/rsrc.php/v3i3Wu4/yn/l/makehaste_jhash/VeEPdoqozF8PehAvfKQSmuZtFFTbIfOkiyMi9iSvoxvBVLeBAXmP9E5BYBHirbomYfuQoMBQJNmLOqOlqT0vr_XyH6X7_0-thwdRs3whZdJjPL-TePF-pp9z-oIIkSf1WKe_.js?_nc_x=Ij3Wp8lg5Kz:888:121514
+sk@https://static.cdninstagram.com/rsrc.php/v3i3Wu4/yn/l/makehaste_jhash/VeEPdoqozF8PehAvfKQSmuZtFFTbIfOkiyMi9iSvoxvBVLeBAXmP9E5BYBHirbomYfuQoMBQJNmLOqOlqT0vr_XyH6X7_0-thwdRs3whZdJjPL-TePF-pp9z-oIIkSf1WKe_.js?_nc_x=Ij3Wp8lg5Kz:888:121327
+ck@https://static.cdninstagram.com/rsrc.php/v3i3Wu4/yn/l/makehaste_jhash/VeEPdoqozF8PehAvfKQSmuZtFFTbIfOkiyMi9iSvoxvBVLeBAXmP9E5BYBHirbomYfuQoMBQJNmLOqOlqT0vr_XyH6X7_0-thwdRs3whZdJjPL-TePF-pp9z-oIIkSf1WKe_.js?_nc_x=Ij3Wp8lg5Kz:888:117836
+applyWithGuard@https://static.cdninstagram.com/rsrc.php/v3/yV/r/NgPDZn8n1f5.js?_nc_x=Ij3Wp8lg5Kz:70:10432
+c@https://static.cdninstagram.com/rsrc.php/v3/yV/r/NgPDZn8n1f5.js?_nc_x=Ij3Wp8lg5Kz:70:11166
+O@https://static.cdninstagram.com/rsrc.php/v3/yV/r/NgPDZn8n1f5.js?_nc_x=Ij3Wp8lg5Kz:229:2292
+U@https://static.cdninstagram.com/rsrc.php/v3/yV/r/NgPDZn8n1f5.js?_nc_x=Ij3Wp8lg5Kz:229:2893
+
+1709823378817	Marionette	INFO	Stopped listening on port 11847
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1709823379028	WebDriver BiDi	ERROR	Failed to stop protocol: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.sys.mjs :: allowAllCerts.disable :: line 47"  data: no] Stack trace: allowAllCerts.disable()@cert.sys.mjs:47
+destroy()@Session.sys.mjs:239
+deleteSession()@WebDriverBiDi.sys.mjs:140
+stop()@WebDriverBiDi.sys.mjs:228
+observe()@resource://gre/modules/AsyncShutdown.sys.mjs:570
